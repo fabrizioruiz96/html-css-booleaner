@@ -5,6 +5,7 @@ body{
 
 #container{
     margin-left: 10px;
+    margin-right: 10px;
 }
 
 /* header */
@@ -27,6 +28,7 @@ header{
 #subtitle{
     margin-top: 0;
     color: rgb(129, 129, 129);
+    font-size: small;
 }
 
 #author{
@@ -34,8 +36,43 @@ header{
 }
 
 #caption{
-    font-size: small;
+    font-size: x-small;
     margin-top: 0;
 }
 
-/*  */
+/* first section */
+.text-first-section{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#highlighted{
+    background-color: yellow;
+}
+
+/* second section */
+#second-section{
+    margin-bottom: 20px;
+}
+
+.text-second-section{
+    margin: 0;
+}
+
+/* third section */
+table{
+    margin-bottom: 30px;
+}
+
+thead{
+    background-color: hwb(219 46% 4%);
+    color: white;
+}
+
+.row-grey{
+    background-color: rgb(186, 193, 197);
+}
+
+.third-column{
+    width: 50%;
+}
