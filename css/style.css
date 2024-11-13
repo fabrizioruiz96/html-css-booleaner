@@ -76,3 +76,11 @@ thead{
 .third-column{
     width: 50%;
 }
+
+/* footer */
+footer{
+    color: white;
+    text-align: center;
+    background-color: cornflowerblue;
+    line-height: 40px;
+}
