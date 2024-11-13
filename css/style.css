@@ -1,0 +1,41 @@
+/* general */
+body{
+    margin: 0;
+}
+
+#container{
+    margin-left: 10px;
+}
+
+/* header */
+header{
+    background-color: hwb(197 47% 3%);
+    height: 100px; 
+}
+
+#logo{
+    height: 40%;
+    margin-top: 35px;
+    margin-left: 10px;
+}
+
+/* title and image */
+#title{
+    margin-bottom: 0;
+}
+
+#subtitle{
+    margin-top: 0;
+    color: rgb(129, 129, 129);
+}
+
+#author{
+    color: hwb(219 13% 0%);
+}
+
+#caption{
+    font-size: small;
+    margin-top: 0;
+}
+
+/*  */
